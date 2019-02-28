@@ -18,18 +18,18 @@ namespace Task01
             string operaTor = Console.ReadLine();
             int result = 0;
             
-            if(operaTor != "+" || "-" || "*" || "/"){
+            if(operaTor != "+" && operaTor != "-" && operaTor != "*" && operaTor != "/"){
             switch(operaTor){
-                case 1:
+                case "+":
                     result = firstNumber + secondNumber;
                     break;
-                    case 2: 
+                    case "-": 
                     result = firstNumber - secondNumber;
                     break;
-                    case 3:
+                    case "*":
                     result = firstNumber * secondNumber;
                     break;
-                    case 4:
+                    case "/":
                     result = firstNumber / secondNumber;
                     break;
 
