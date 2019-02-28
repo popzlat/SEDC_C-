@@ -15,26 +15,35 @@ namespace Task01
             Console.WriteLine("Enter the second number");
             int secondNumber = int.Parse(Console.ReadLine());
             Console.WriteLine("What operation would like to be done (+, - , * , /)");
-           string operaTor = Console.ReadLine();
+            string operaTor = Console.ReadLine();
             int result = 0;
-            if(operaTor == "+")
-            {
-                result = firstNumber + secondNumber;
-            }
-            else if (operaTor == "-")
-            {
-                result = firstNumber - secondNumber;
-            }
-             if (operaTor == "*")
-            {
-                result = firstNumber * secondNumber;
-            }
-             if (operaTor == "/")
-            {
-                result = firstNumber / secondNumber;
-            }
+            
+            if(operaTor != "+" || "-" || "*" || "/"){
+            switch(operaTor){
+                case 1:
+                    result = firstNumber + secondNumber;
+                    break;
+                    case 2: 
+                    result = firstNumber - secondNumber;
+                    break;
+                    case 3:
+                    result = firstNumber * secondNumber;
+                    break;
+                    case 4:
+                    result = firstNumber / secondNumber;
+                    break;
 
-            Console.WriteLine("The result is : " + result);
+                    default:
+                    Console.WriteLine("Please enter the right operator ");
+                    break;
+
+                    }
+                }
+            else{
+                Console.WriteLine("Something went wrong try again");
+}               
+
+
             Console.ReadLine();
 
         }

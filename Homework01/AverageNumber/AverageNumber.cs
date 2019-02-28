@@ -13,11 +13,11 @@ namespace AverageNumber
 
             Console.WriteLine("Enter the first number");
             int firstNumber = int.Parse(Console.ReadLine());
-            Console.WriteLine("Enter the second number");
+            Console.WriteLine("Enter the second number ");
             int secondNumber = int.Parse(Console.ReadLine());
-            Console.WriteLine("Enter the third number");
+            Console.WriteLine("Enter the third number ");
             int thirdNumber = int.Parse(Console.ReadLine());
-            Console.WriteLine("Enter the fourth number");
+            Console.WriteLine("Enter the fourth number ");
             int fourthNumber = int.Parse(Console.ReadLine());
 
             int average = (firstNumber + secondNumber + thirdNumber + fourthNumber) / 4;
