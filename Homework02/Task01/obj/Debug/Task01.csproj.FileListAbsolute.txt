@@ -1,0 +1,7 @@
+C:\Users\Zlatko\Desktop\C#\SEDC_C-\Homework02\Task01\bin\Debug\Task01.exe.config
+C:\Users\Zlatko\Desktop\C#\SEDC_C-\Homework02\Task01\bin\Debug\Task01.exe
+C:\Users\Zlatko\Desktop\C#\SEDC_C-\Homework02\Task01\bin\Debug\Task01.pdb
+C:\Users\Zlatko\Desktop\C#\SEDC_C-\Homework02\Task01\obj\Debug\Task01.csprojAssemblyReference.cache
+C:\Users\Zlatko\Desktop\C#\SEDC_C-\Homework02\Task01\obj\Debug\Task01.csproj.CoreCompileInputs.cache
+C:\Users\Zlatko\Desktop\C#\SEDC_C-\Homework02\Task01\obj\Debug\Task01.exe
+C:\Users\Zlatko\Desktop\C#\SEDC_C-\Homework02\Task01\obj\Debug\Task01.pdb

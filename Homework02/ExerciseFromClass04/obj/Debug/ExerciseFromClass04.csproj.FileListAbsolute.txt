@@ -1,0 +1,7 @@
+C:\Users\Zlatko\Desktop\C#\SEDC_C-\Homework02\ExerciseFromClass04\bin\Debug\ExerciseFromClass04.exe.config
+C:\Users\Zlatko\Desktop\C#\SEDC_C-\Homework02\ExerciseFromClass04\bin\Debug\ExerciseFromClass04.exe
+C:\Users\Zlatko\Desktop\C#\SEDC_C-\Homework02\ExerciseFromClass04\bin\Debug\ExerciseFromClass04.pdb
+C:\Users\Zlatko\Desktop\C#\SEDC_C-\Homework02\ExerciseFromClass04\obj\Debug\ExerciseFromClass04.csprojAssemblyReference.cache
+C:\Users\Zlatko\Desktop\C#\SEDC_C-\Homework02\ExerciseFromClass04\obj\Debug\ExerciseFromClass04.csproj.CoreCompileInputs.cache
+C:\Users\Zlatko\Desktop\C#\SEDC_C-\Homework02\ExerciseFromClass04\obj\Debug\ExerciseFromClass04.exe
+C:\Users\Zlatko\Desktop\C#\SEDC_C-\Homework02\ExerciseFromClass04\obj\Debug\ExerciseFromClass04.pdb
