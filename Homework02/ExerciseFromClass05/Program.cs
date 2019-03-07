@@ -8,6 +8,16 @@ namespace ExerciseFromClass05
 {
     class Program
     {
+        static DateTime AgeCalculator(DateTime dateOfBirth)
+        {
+            DateTime currentTime = DateTime.Now;
+
+            TimeSpan timeSpan = currentTime - dateOfBirth;
+
+            DateTime age = DateTime.MinValue + timeSpan;
+
+            return age;
+        }
 
         private static void Main(string[] args)
         {
@@ -34,19 +44,10 @@ namespace ExerciseFromClass05
             Console.WriteLine(years.ToString() + (years > 1 ? " Years " : " Year ") +
                 months.ToString() + (months > 1 ? " Months " : " Month ") +
                 days.ToString() + (days > 1 ? " Days" : " Day"));
-            Console.WriteLine("You are " + years + " old");
+            Console.WriteLine("You are " + years + " years old");
             Console.Read();
         }
 
-         static DateTime AgeCalculator(DateTime dateOfBirth)
-        {
-            DateTime currentTime = DateTime.Now;
-
-            TimeSpan timeSpan = currentTime - dateOfBirth;
-
-            DateTime age = DateTime.MinValue + timeSpan;
-
-            return age;
-        }
+         
     }
 }
