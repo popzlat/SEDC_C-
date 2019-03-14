@@ -1,0 +1,7 @@
+C:\Users\zlatko.poposki\Desktop\c#\Exercise03\bin\Debug\Exercise03.exe.config
+C:\Users\zlatko.poposki\Desktop\c#\Exercise03\bin\Debug\Exercise03.exe
+C:\Users\zlatko.poposki\Desktop\c#\Exercise03\bin\Debug\Exercise03.pdb
+C:\Users\zlatko.poposki\Desktop\c#\Exercise03\obj\Debug\Exercise03.csprojAssemblyReference.cache
+C:\Users\zlatko.poposki\Desktop\c#\Exercise03\obj\Debug\Exercise03.csproj.CoreCompileInputs.cache
+C:\Users\zlatko.poposki\Desktop\c#\Exercise03\obj\Debug\Exercise03.exe
+C:\Users\zlatko.poposki\Desktop\c#\Exercise03\obj\Debug\Exercise03.pdb
