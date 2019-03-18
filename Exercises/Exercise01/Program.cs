@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -21,7 +21,7 @@ namespace Exercise03
           
             Costumers[] arr =
            {
-                new Costumers("Zlatko Poposki","1234","1234",500),
+                new Costumers("Zlatko Poposki","1234-1234-1234-1234","1234",500),
                 new Costumers("Petko Petkov","0000-0000-0000-0000","0000",250),
                 new Costumers("Stanko Stankov","1111-1111-1111-1111","1111",780),
                 new Costumers("Trajce Trajkov","2222-2222-2222-2222","2222",360),
@@ -111,6 +111,7 @@ namespace Exercise03
                 if (Console.ReadLine() == "y")
                 {
                     newTransaction = true;
+                    Console.Clear();
                 }
                 else
                 {
