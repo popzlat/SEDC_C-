@@ -1,0 +1,7 @@
+C:\Users\zlatko.poposki\Desktop\c#\ExerciseSong\TaskSong\bin\Debug\TaskSong.exe.config
+C:\Users\zlatko.poposki\Desktop\c#\ExerciseSong\TaskSong\bin\Debug\TaskSong.exe
+C:\Users\zlatko.poposki\Desktop\c#\ExerciseSong\TaskSong\bin\Debug\TaskSong.pdb
+C:\Users\zlatko.poposki\Desktop\c#\ExerciseSong\TaskSong\obj\Debug\TaskSong.csprojAssemblyReference.cache
+C:\Users\zlatko.poposki\Desktop\c#\ExerciseSong\TaskSong\obj\Debug\TaskSong.csproj.CoreCompileInputs.cache
+C:\Users\zlatko.poposki\Desktop\c#\ExerciseSong\TaskSong\obj\Debug\TaskSong.exe
+C:\Users\zlatko.poposki\Desktop\c#\ExerciseSong\TaskSong\obj\Debug\TaskSong.pdb
