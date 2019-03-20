@@ -1,0 +1,10 @@
+C:\Users\Zlatko\Desktop\Homework09\Exercise09\bin\Debug\Exercise09.exe.config
+C:\Users\Zlatko\Desktop\Homework09\Exercise09\bin\Debug\Exercise09.exe
+C:\Users\Zlatko\Desktop\Homework09\Exercise09\bin\Debug\Exercise09.pdb
+C:\Users\Zlatko\Desktop\Homework09\Exercise09\bin\Debug\Classes.dll
+C:\Users\Zlatko\Desktop\Homework09\Exercise09\bin\Debug\Classes.pdb
+C:\Users\Zlatko\Desktop\Homework09\Exercise09\obj\Debug\Exercise09.csprojAssemblyReference.cache
+C:\Users\Zlatko\Desktop\Homework09\Exercise09\obj\Debug\Exercise09.csproj.CoreCompileInputs.cache
+C:\Users\Zlatko\Desktop\Homework09\Exercise09\obj\Debug\Exercise09.csproj.CopyComplete
+C:\Users\Zlatko\Desktop\Homework09\Exercise09\obj\Debug\Exercise09.exe
+C:\Users\Zlatko\Desktop\Homework09\Exercise09\obj\Debug\Exercise09.pdb

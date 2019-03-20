@@ -1,0 +1,12 @@
+C:\Users\zlatko.poposki\Desktop\C# Basic\ClassExceptions\Classes\bin\Debug\Classes.dll
+C:\Users\zlatko.poposki\Desktop\C# Basic\ClassExceptions\Classes\bin\Debug\Classes.pdb
+C:\Users\zlatko.poposki\Desktop\C# Basic\ClassExceptions\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\zlatko.poposki\Desktop\C# Basic\ClassExceptions\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\zlatko.poposki\Desktop\C# Basic\ClassExceptions\Classes\obj\Debug\Classes.dll
+C:\Users\zlatko.poposki\Desktop\C# Basic\ClassExceptions\Classes\obj\Debug\Classes.pdb
+C:\Users\Zlatko\Desktop\ClassExceptions\Classes\bin\Debug\Classes.dll
+C:\Users\Zlatko\Desktop\ClassExceptions\Classes\bin\Debug\Classes.pdb
+C:\Users\Zlatko\Desktop\ClassExceptions\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\Zlatko\Desktop\ClassExceptions\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Zlatko\Desktop\ClassExceptions\Classes\obj\Debug\Classes.dll
+C:\Users\Zlatko\Desktop\ClassExceptions\Classes\obj\Debug\Classes.pdb
