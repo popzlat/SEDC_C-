@@ -13,9 +13,7 @@ namespace Exercise03
             bool newTransaction = true;
 
             string costumerChoise;
-            string checkBalance;
-            string cashWithdrawal;
-            string cashDeposit;
+            
 
             string costumerFound;
           
@@ -63,16 +61,17 @@ namespace Exercise03
                     else
                     {
                         Console.WriteLine("You enter wrong pin !");
+                            
                     }
 
                 }
-                else
-                {
-                    Console.WriteLine("User not found");
-                    break;
-                }
+              
 
             }
+                if (foundC == null)
+                {
+                    Console.WriteLine("User not found");
+                }
             if (rightPin == true)
             {
                 Console.WriteLine("What would you like to do:");
@@ -118,18 +117,6 @@ namespace Exercise03
                     newTransaction = false;
                     Console.WriteLine("Goodbye and thank you for using this ATM :) ");
                 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
             Console.ReadLine();
